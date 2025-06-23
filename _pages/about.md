@@ -14,8 +14,8 @@ Research Interests
 My research centers on AI with a focus in natural language processing, the alignment of large language models (LLMs) to human values, and LLM-based agents. I am particularly interested in the design, evaluation, and applications of LLM-based systems for high-stakes, human-centered applications, unlocking the full potential of AI capabilities while ensuring the trustworthiness, robustness, and safety required for real-world use. 
 
 My current work focuses on the following high-level areas:
-- Evaluating and mitigating the risks of computer-use agents, with an emphasis on both security (i.e. protecting agents from adversarial attack) and safety (i.e. preventing accidental agent harms emerging from typical benign inputs).
-- Developing novel methods to introducing alignment signals during model training, aiming to address core vulnerabilities in existing LLMs and enhance their reliability in practice.
+- **Evaluating and mitigating the risks of computer-use agents**, with an emphasis on both *security* (i.e., protecting agents from adversarial attack) and *safety* (i.e., preventing accidental agent harms emerging from typical benign inputs).
+- **Developing novel methods to introducing alignment signals during model training**, aiming to address core vulnerabilities in existing LLMs and enhance their reliability in practice.
 
 Publications & Papers
 ------
