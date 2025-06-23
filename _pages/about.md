@@ -21,7 +21,7 @@ Publications & Papers
 ------
 
 - [**RedTeamCUA: Towards Realistic Adversarial Testing of CUAs in Hybrid Web-OS Environments**](https://osu-nlp-group.github.io/RedTeamCUA/)   
-Zeyi Liao*, __Jaylen Jones*__, Linxi Jiang*, Eric Fosler-Lussier, Yu Su, Zhiqiang Lin, Huan Sun (* denotes equal contribution)  
+Zeyi Liao\*, __Jaylen Jones\*__, Linxi Jiang\*, Eric Fosler-Lussier, Yu Su, Zhiqiang Lin, Huan Sun (* denotes equal contribution)  
 **(Under Review 2025)**
 
 - [**AmpleGCG-Plus: A Strong Generative Model of Adversarial Suffixes to Jailbreak LLMs with Higher Success Rates in Fewer Attempts**](https://arxiv.org/abs/2410.22143)  
@@ -30,14 +30,14 @@ Vishal Kumar, Zeyi Liao, __Jaylen Jones__, Huan Sun
 
 - [**A Multi-Aspect Framework for Counter Narrative Evaluation using Large Language Models**](https://arxiv.org/abs/2402.11676)  
 __Jaylen Jones__, Lingbo Mo, Eric Fosler-Lussier, Huan Sun  
-2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics   
+*2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics*   
 **(NAACL 2024)**
 
 
 Awards and Experience
 ------
-- Led as a Student Presenter at the [Center for AI Policy's Congressional Exhibition for Advanced AI](https://www.centeraipolicy.org/work/caip-showcases-advanced-ai-risks-to-congress-in-first-of-its-kind-tech-exhibition-on-capitol-hill) in Washington D.C., presenting AI safety risks to congressional staffers to help inform policy decisions, 2025
-- Lead Student Writer on accepted grant from [Schmidt Sciences' Safety Science Initiative](https://www.schmidtsciences.org/safetyscience/), 2024
-- Attended the 2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics, 2024
-- Inaugural member of the [L.I.F.E Foundation Fellowship](https://life-brainhealth.org/fellowships/) at Northern Kentucky University, 2018
+- Led as a Student Presenter at the [Center for AI Policy's Congressional Exhibition for Advanced AI](https://www.centeraipolicy.org/work/caip-showcases-advanced-ai-risks-to-congress-in-first-of-its-kind-tech-exhibition-on-capitol-hill), 2025
+- Lead Student Writer on accepted [Schmidt Sciences' Safety Science Initiative](https://www.schmidtsciences.org/safetyscience/) grant, 2024
+- Attended the *2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics*, 2024
+- Inaugural member of the [L.I.F.E Foundation Fellowship](https://life-brainhealth.org/fellowships/) at NKU, 2018
 
