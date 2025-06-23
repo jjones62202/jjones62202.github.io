@@ -20,23 +20,17 @@ My current work focuses on the following high-level areas:
 Publications & Papers
 ------
 
-[**RedTeamCUA: Towards Realistic Adversarial Testing of CUAs in Hybrid Web-OS Environments**](https://osu-nlp-group.github.io/RedTeamCUA/) 
-
-Zeyi Liao*, __Jaylen Jones*__, Linxi Jiang*, Eric Fosler-Lussier, Yu Su, Zhiqiang Lin, Huan Sun (* denotes equal contribution)
-
+- [**RedTeamCUA: Towards Realistic Adversarial Testing of CUAs in Hybrid Web-OS Environments**](https://osu-nlp-group.github.io/RedTeamCUA/)   
+Zeyi Liao*, __Jaylen Jones*__, Linxi Jiang*, Eric Fosler-Lussier, Yu Su, Zhiqiang Lin, Huan Sun (* denotes equal contribution)  
 **(Under Review 2025)**
 
-[**AmpleGCG-Plus: A Strong Generative Model of Adversarial Suffixes to Jailbreak LLMs with Higher Success Rates in Fewer Attempts**](https://arxiv.org/abs/2410.22143)
-
-Vishal Kumar, Zeyi Liao, __Jaylen Jones__, Huan Sun
-
+- [**AmpleGCG-Plus: A Strong Generative Model of Adversarial Suffixes to Jailbreak LLMs with Higher Success Rates in Fewer Attempts**](https://arxiv.org/abs/2410.22143)  
+Vishal Kumar, Zeyi Liao, __Jaylen Jones__, Huan Sun  
 **(arXiv 2025)**
 
-[**A Multi-Aspect Framework for Counter Narrative Evaluation using Large Language Models**](https://arxiv.org/abs/2402.11676)
-__Jaylen Jones__, Lingbo Mo, Eric Fosler-Lussier, Huan Sun
-
-2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics 
-
+- [**A Multi-Aspect Framework for Counter Narrative Evaluation using Large Language Models**](https://arxiv.org/abs/2402.11676)  
+__Jaylen Jones__, Lingbo Mo, Eric Fosler-Lussier, Huan Sun  
+2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics   
 **(NAACL 2024)**
 
 
