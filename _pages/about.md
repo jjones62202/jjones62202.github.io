@@ -15,7 +15,7 @@ My research centers on AI with a focus in natural language processing, the align
 
 My current work focuses on the following high-level areas:
 - **Evaluating and mitigating the risks of computer-use agents**, with an emphasis on both *security* (i.e., protecting agents from adversarial attack) and *safety* (i.e., preventing accidental agent harms emerging from typical benign inputs).
-- **Developing novel methods to introducing alignment signals during model training**, aiming to address core vulnerabilities in existing LLMs and enhance their reliability in practice.
+- **Developing novel methods to introducing alignment signals during model training**, aiming to address core vulnerabilities in existing LLMs and enhance the safety of computer-use agents in practice.
 
 Publications & Papers
 ------
