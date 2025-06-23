@@ -20,9 +20,7 @@ My current work focuses on the following high-level areas:
 Publications & Papers
 ------
 
-- [**RedTeamCUA: Towards Realistic Adversarial Testing of CUAs in Hybrid Web-OS Environments**](https://osu-nlp-group.github.io/RedTeamCUA/)
-Zeyi Liao*, __Jaylen Jones*__, Linxi Jiang*, Eric Fosler-Lussier, Yu Su, Zhiqiang Lin, Huan Sun (* denotes equal contribution)
-**(Under Review 2025)**
+- [**RedTeamCUA: Towards Realistic Adversarial Testing of CUAs in Hybrid Web-OS Environments**](https://osu-nlp-group.github.io/RedTeamCUA/) \ Zeyi Liao*, __Jaylen Jones*__, Linxi Jiang*, Eric Fosler-Lussier, Yu Su, Zhiqiang Lin, Huan Sun (* denotes equal contribution) \ **(Under Review 2025)**
 
 - [**AmpleGCG-Plus: A Strong Generative Model of Adversarial Suffixes to Jailbreak LLMs with Higher Success Rates in Fewer Attempts**](https://arxiv.org/abs/2410.22143)
 Vishal Kumar, Zeyi Liao, __Jaylen Jones__, Huan Sun
