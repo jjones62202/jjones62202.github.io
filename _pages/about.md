@@ -13,16 +13,15 @@ Research Interests
 ------
 My research centers on AI with a focus in natural language processing, the alignment of large language models (LLMs) to human values, and LLM-based agents. I am particularly interested in the design, evaluation, and applications of LLM-based systems for high-stakes, human-centered applications, unlocking the full potential of AI capabilities while ensuring the trustworthiness, robustness, and safety required for real-world use. 
 
-My current work focuses on the following high-level areas:
+My current work focuses on the following high-level area:
 - **Evaluating and mitigating the risks of computer-use agents**, with an emphasis on both *security* (i.e., protecting agents from adversarial attack) and *safety* (i.e., preventing accidental agent harms emerging from typical benign inputs).
-- **Developing novel methods to introducing alignment signals during model training**, aiming to address core vulnerabilities in existing LLMs and enhance the safety of computer-use agents in practice.
 
 Publications & Papers
 ------
 
 - [**RedTeamCUA: Towards Realistic Adversarial Testing of CUAs in Hybrid Web-OS Environments**](https://osu-nlp-group.github.io/RedTeamCUA/)   
 Zeyi Liao\*, __Jaylen Jones\*__, Linxi Jiang\*, Eric Fosler-Lussier, Yu Su, Zhiqiang Lin, Huan Sun (* denotes equal contribution)  
-**(Under Review 2025)**
+**(COLM 2025 Workshop for AI Agents, Under Review 2025)**
 
 - [**AmpleGCG-Plus: A Strong Generative Model of Adversarial Suffixes to Jailbreak LLMs with Higher Success Rates in Fewer Attempts**](https://arxiv.org/abs/2410.22143)  
 Vishal Kumar, Zeyi Liao, __Jaylen Jones__, Huan Sun  
@@ -36,6 +35,8 @@ __Jaylen Jones__, Lingbo Mo, Eric Fosler-Lussier, Huan Sun
 
 Awards and Experience
 ------
+- Attended *2025 Conference on Language Modeling* to present at *COLM 2025 Workshop on AI Agents: Capabilities and Safety*, 2025
+- Lead Student Writer on accepted [Open Philanthropy - Call for AI Safety Research](https://www.openphilanthropy.org/request-for-proposals-technical-ai-safety-research/) grant, 2025
 - Led as a Student Presenter at the [Center for AI Policy's Congressional Exhibition for Advanced AI](https://www.centeraipolicy.org/work/caip-showcases-advanced-ai-risks-to-congress-in-first-of-its-kind-tech-exhibition-on-capitol-hill), 2025
 - Lead Student Writer on accepted [Schmidt Sciences' Safety Science Initiative](https://www.schmidtsciences.org/safetyscience/) grant, 2024
 - Attended the *2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics*, 2024
