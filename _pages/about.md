@@ -22,11 +22,13 @@ Publications & Papers
 ------
 
 - **RedTeamCUA: Towards Realistic Adversarial Testing of CUAs in Hybrid Web-OS Environments** <span style="color: #FF0000;">(Oral)</span> [Paper](https://arxiv.org/abs/2505.21936) [Website](https://osu-nlp-group.github.io/RedTeamCUA/) [Code](https://github.com/OSU-NLP-Group/RedTeamCUA)
+ 
 Zeyi Liao\*, __Jaylen Jones\*__, Linxi Jiang\*, Eric Fosler-Lussier, Yu Su, Zhiqiang Lin, Huan Sun (* denotes equal contribution)  
 *The Fourteenth International Conference on Learning Representations*
 **(ICLR 2026)**
 
 - [**When Benign Inputs Lead to Severe Harms: Eliciting Unsafe Unintended Behaviors of Computer-Use Agents**] [Paper](https://arxiv.org/abs/2602.08235) [Website](https://osu-nlp-group.github.io/AutoElicit/) [Code](https://github.com/OSU-NLP-Group/AutoElicit) [Data](https://huggingface.co/collections/osunlp/autoelicit)
+  
 __Jaylen Jones\*__, Zhehao Zhang\*, Yuting Ning, Eric Fosler-Lussier, Pierre-Luc St-Charles, Yoshua Bengio, Dawn Song, Yu Su, Huan Sun (* denotes equal contribution)
 **(arXiv 2026)**
 
