@@ -9,6 +9,8 @@ redirect_from:
 
 Hi, I'm Jaylen Jones, a third-year PhD student in Computer Science & Engineering at The Ohio State University (OSU) advised by [Prof. Huan Sun](https://u.osu.edu/ihudas/people/) and [Prof. Eric Fosler-Lussier](https://efosler.github.io/#). Prior to joining OSU, I received my B.S. in Computer Science from the College of Informatics at Northern Kentucky University (NKU). 
 
+🚀 Seeking a research internship for Summer 2026, feel free to reach out if you have any opportunities!
+
 Research Interests
 ------
 My research centers on AI with a focus in natural language processing, the alignment of large language models (LLMs) to human values, and LLM-based agents. I am particularly interested in the design, evaluation, and applications of LLM-based systems for high-stakes, human-centered applications, unlocking the full potential of AI capabilities while ensuring the trustworthiness, robustness, and safety required for real-world use. 
@@ -19,15 +21,24 @@ My current work focuses on the following high-level area:
 Publications & Papers
 ------
 
-- [**RedTeamCUA: Towards Realistic Adversarial Testing of CUAs in Hybrid Web-OS Environments**](https://osu-nlp-group.github.io/RedTeamCUA/)   
+- **RedTeamCUA: Towards Realistic Adversarial Testing of CUAs in Hybrid Web-OS Environments** <span style="color: #FF0000;">(Oral)</span> [Paper](https://arxiv.org/abs/2505.21936) [Website](https://osu-nlp-group.github.io/RedTeamCUA/) [Code](https://github.com/OSU-NLP-Group/RedTeamCUA)
 Zeyi Liao\*, __Jaylen Jones\*__, Linxi Jiang\*, Eric Fosler-Lussier, Yu Su, Zhiqiang Lin, Huan Sun (* denotes equal contribution)  
-**(COLM 2025 Workshop for AI Agents, Under Review 2025)**
+*The Fourteenth International Conference on Learning Representations*
+**(ICLR 2026)**
 
-- [**AmpleGCG-Plus: A Strong Generative Model of Adversarial Suffixes to Jailbreak LLMs with Higher Success Rates in Fewer Attempts**](https://arxiv.org/abs/2410.22143)  
+- [**When Benign Inputs Lead to Severe Harms: Eliciting Unsafe Unintended Behaviors of Computer-Use Agents**] [Paper](https://arxiv.org/abs/2602.08235) [Website](https://osu-nlp-group.github.io/AutoElicit/) [Code](https://github.com/OSU-NLP-Group/AutoElicit) [Data](https://huggingface.co/collections/osunlp/autoelicit)
+__Jaylen Jones\*__, Zhehao Zhang\*, Yuting Ning, Eric Fosler-Lussier, Pierre-Luc St-Charles, Yoshua Bengio, Dawn Song, Yu Su, Huan Sun (* denotes equal contribution)
+**(arXiv 2026)**
+
+- [**When Actions Go Off-Task: Detecting and Correcting Misaligned Actions in Computer-Use Agents**] [Paper](https://arxiv.org/abs/2602.08995) [Website](https://osu-nlp-group.github.io/Misaligned-Action-Detection/) [Code](https://github.com/OSU-NLP-Group/Misaligned-Action-Detection) [Data](https://huggingface.co/datasets/osunlp/MisActBench)
+Yuting Ning, __Jaylen Jones__, Zhehao Zhang, Chentao Ye, Weitong Ruan, Junyi Li, Rahul Gupta, Huan Sun
+**(arXiv 2026)**
+
+- [**AmpleGCG-Plus: A Strong Generative Model of Adversarial Suffixes to Jailbreak LLMs with Higher Success Rates in Fewer Attempts**] [Paper](https://arxiv.org/abs/2410.22143)  
 Vishal Kumar, Zeyi Liao, __Jaylen Jones__, Huan Sun  
 **(arXiv 2025)**
 
-- [**A Multi-Aspect Framework for Counter Narrative Evaluation using Large Language Models**](https://arxiv.org/abs/2402.11676)  
+- [**A Multi-Aspect Framework for Counter Narrative Evaluation using Large Language Models**] [Paper](https://arxiv.org/abs/2402.11676)  
 __Jaylen Jones__, Lingbo Mo, Eric Fosler-Lussier, Huan Sun  
 *2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics*   
 **(NAACL 2024)**
