@@ -9,7 +9,7 @@ redirect_from:
 
 Hi, I'm Jaylen Jones, a third-year PhD student in Computer Science & Engineering at The Ohio State University (OSU) advised by [Prof. Huan Sun](https://u.osu.edu/ihudas/people/) and [Prof. Eric Fosler-Lussier](https://efosler.github.io/#). Prior to joining OSU, I received my B.S. in Computer Science from the College of Informatics at Northern Kentucky University (NKU). 
 
-🚀 Seeking a research internship for Summer 2026, feel free to reach out if you have any opportunities!
+🚀 <span style="color: #FFA500;">Seeking a research internship for Summer 2026, feel free to reach out if you have any opportunities!</span>
 
 Research Interests
 ------
@@ -21,8 +21,7 @@ My current work focuses on the following high-level area:
 Publications & Papers
 ------
 
-- **RedTeamCUA: Towards Realistic Adversarial Testing of CUAs in Hybrid Web-OS Environments**  
-  <span style="color: #FF0000;">(Oral)</span>  
+- **RedTeamCUA: Towards Realistic Adversarial Testing of CUAs in Hybrid Web-OS Environments**  <span style="color: #FF0000;">(Oral)</span>  
   [Paper](https://arxiv.org/abs/2505.21936) · [Website](https://osu-nlp-group.github.io/RedTeamCUA/) · [Code](https://github.com/OSU-NLP-Group/RedTeamCUA)  
   Zeyi Liao\*, __Jaylen Jones\*__, Linxi Jiang\*, Eric Fosler-Lussier, Yu Su, Zhiqiang Lin, Huan Sun  
   (* denotes equal contribution)  
