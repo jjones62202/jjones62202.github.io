@@ -9,8 +9,6 @@ redirect_from:
 
 Hi, I'm Jaylen Jones, a third-year PhD student in Computer Science & Engineering at The Ohio State University (OSU) advised by [Prof. Huan Sun](https://u.osu.edu/ihudas/people/) and [Prof. Eric Fosler-Lussier](https://efosler.github.io/#). Prior to joining OSU, I received my B.S. in Computer Science from the College of Informatics at Northern Kentucky University (NKU). 
 
-🚀 <span style="color: #FFA500;">Seeking a research internship for Summer 2026, feel free to reach out if you have any opportunities!</span>
-
 Research Interests
 ------
 My research centers on AI with a focus in natural language processing, the alignment of large language models (LLMs) to human values, and LLM-based agents. I am particularly interested in the design, evaluation, and applications of LLM-based systems for high-stakes, human-centered applications, unlocking the full potential of AI capabilities while ensuring the trustworthiness, robustness, and safety required for real-world use. 
@@ -28,11 +26,11 @@ Publications & Papers
   *The Fourteenth International Conference on Learning Representations*  
   **(ICLR 2026)**
 
-- **When Benign Inputs Lead to Severe Harms: Eliciting Unsafe Unintended Behaviors of Computer-Use Agents**  
+- **When Benign Inputs Lead to Severe Harms: Eliciting Unsafe Unintended Behaviors of Computer-Use Agents**  <span style="color: #FF0000;">(Spotlight)</span> 
   [Paper](https://arxiv.org/abs/2602.08235) · [Website](https://osu-nlp-group.github.io/AutoElicit/) · [Code](https://github.com/OSU-NLP-Group/AutoElicit) · [Data](https://huggingface.co/collections/osunlp/autoelicit)  
   __Jaylen Jones\*__, Zhehao Zhang\*, Yuting Ning, Eric Fosler-Lussier, Pierre-Luc St-Charles, Yoshua Bengio, Dawn Song, Yu Su, Huan Sun  
   (* denotes equal contribution)  
-  **(arXiv 2026)**
+  **(ICLR AIWILD Workshop 2026)**
 
 - **When Actions Go Off-Task: Detecting and Correcting Misaligned Actions in Computer-Use Agents**  
   [Paper](https://arxiv.org/abs/2602.08995) · [Website](https://osu-nlp-group.github.io/Misaligned-Action-Detection/) · [Code](https://github.com/OSU-NLP-Group/Misaligned-Action-Detection) · [Data](https://huggingface.co/datasets/osunlp/MisActBench)  
