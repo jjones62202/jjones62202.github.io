@@ -11,10 +11,12 @@ Hi, I'm Jaylen Jones, a fifth-year PhD student in Computer Science & Engineering
 
 Research Interests
 ------
-My research centers on the design, evaluation, and applications of LLM-based systems for high-stakes, human-centered applications, unlocking the full potential of AI capabilities while ensuring the trustworthiness, robustness, and safety required for real-world use. 
+My research centers on understanding, evaluating, and mitigating risks in LLM-based agents, particularly for high-stakes scenarios where failures can have the most significant consequences for real-world users. This includes emphasis on both *safety* (e.g., preventing accidental agent harms emerging from typical benign inputs) and *security* (e.g., protecting agents from adversarial attack). 
 
-My current work focuses on the following high-level area:
-- **Evaluating and mitigating the risks of computer-use agents**, with an emphasis on both *security* (i.e., protecting agents from adversarial attack) and *safety* (i.e., preventing accidental agent harms emerging from typical benign inputs).
+My current work focuses on the following high-level areas:
+- **Developing realistic and controlled evaluation frameworks for adversarial testing**, enabling pre-deployment evaluations that capture safety and security risks under realistic real-world threat models.
+- **Automatically eliciting safety risks from computer-use agents**, proactively and scalably surfacing long-tail unintended behaviors that emerge inadvertently within benign task and environment scenarios.
+- **Mitigating agent safety risks through continual learning**, enabling agents to learn from prior safety-related experiences to avoid repeating harmful behaviors across future interactions.
 
 Publications & Papers
 ------
@@ -24,17 +26,20 @@ Publications & Papers
   Zeyi Liao\*, __Jaylen Jones\*__, Linxi Jiang\*, Eric Fosler-Lussier, Yu Su, Zhiqiang Lin, Huan Sun  
   (* denotes equal contribution)  
   *The Fourteenth International Conference on Learning Representations*  
+  <span style="color: #FF9933;">*Adopted by QwenCUA for adversarial robustness evaluation.*</span>  
   **(ICLR 2026)**
 
-- **When Benign Inputs Lead to Severe Harms: Eliciting Unsafe Unintended Behaviors of Computer-Use Agents** 
+- **When Benign Inputs Lead to Severe Harms: Eliciting Unsafe Unintended Behaviors of Computer-Use Agents**  
   [Paper](https://arxiv.org/abs/2602.08235) · [Website](https://osu-nlp-group.github.io/AutoElicit/) · [Code](https://github.com/OSU-NLP-Group/AutoElicit) · [Data](https://huggingface.co/collections/osunlp/autoelicit)  
   __Jaylen Jones\*__, Zhehao Zhang\*, Yuting Ning, Eric Fosler-Lussier, Pierre-Luc St-Charles, Yoshua Bengio, Dawn Song, Yu Su, Huan Sun  
   (* denotes equal contribution)  
+  *The Forty-Third International Conference on Machine Learning*  
   **(ICML 2026, ICLR AIWILD Workshop 2026 (Spotlight))**
 
 - **When Actions Go Off-Task: Detecting and Correcting Misaligned Actions in Computer-Use Agents**  
   [Paper](https://arxiv.org/abs/2602.08995) · [Website](https://osu-nlp-group.github.io/Misaligned-Action-Detection/) · [Code](https://github.com/OSU-NLP-Group/Misaligned-Action-Detection) · [Data](https://huggingface.co/datasets/osunlp/MisActBench)  
-  Yuting Ning, __Jaylen Jones__, Zhehao Zhang, Chentao Ye, Weitong Ruan, Junyi Li, Rahul Gupta, Huan Sun  
+  Yuting Ning, __Jaylen Jones__, Zhehao Zhang, Chentao Ye, Weitong Ruan, Junyi Li, Rahul Gupta, Huan Sun
+  *The Forty-Third International Conference on Machine Learning*  
   **(ICML 2026)**
 
 - **AmpleGCG-Plus: A Strong Generative Model of Adversarial Suffixes to Jailbreak LLMs with Higher Success Rates in Fewer Attempts**  
